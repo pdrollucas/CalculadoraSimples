@@ -6,7 +6,7 @@
 
 ## 📄 Descrição
 
-Uma calculadora simples de console desenvolvida em C# .NET 8.0, capaz de realizar as quatro operações básicas (soma, subtração, multiplicação e divisão). Além disso, permite ao usuário visualizar o histórico de seus últimos quatro cálculos e o histórico completo.
+Uma calculadora simples de console desenvolvida em C# .NET 8.0, capaz de realizar as quatro operações básicas (soma, subtração, multiplicação e divisão). Além disso, permite ao usuário visualizar o histórico de seus últimos quatro cálculos.
 
 ---
 
